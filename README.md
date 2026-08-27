@@ -135,5 +135,13 @@
             height="40"
         />
     </a>
+    <a href="https://rest-assured.io/" target="_blank" rel="noreferrer">
+        <img
+            src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4swDvmy4qFFYEFGdgHlpt15VWO6bTxBCzvUmWjQt9-g&s=10"
+            alt="rest-assured"
+            width="40"
+            height="40"
+        />
+    </a>
   
 </p>
