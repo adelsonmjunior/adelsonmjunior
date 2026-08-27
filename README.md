@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm @adelsonjuniorr</h1>
+<h1 align="center">Hi 👋, I'm Adelson Júnior</h1>
 <h3 align="center">QA Analyst</h3>
 
 - 📫 How to reach me **adelsonmjunior@gmail.com**
